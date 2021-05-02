@@ -1,0 +1,68 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding:14px;
+    font-size: 20px;
+    font-family: "sans-serif";
+    font-weight:400;
+    color: #ffffff;
+
+
+    
+}
+
+
+ .index-bg{
+    background-image: url("images/background.origami.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family:sans-serif;
+}
+
+.grid img{
+
+border: 2px solid #e62902;
+border-radius:50px;
+}
+
+.origami{
+
+border-radius: 20px;
+padding: 28px;
+margin: 25px;
+width:310px;
+font-size: 35px;
+font-family: "chiller";
+}
+
+.about{
+  border-radius: 28px ;
+  font-size: 20px;
+font-family: "impact"
+}
+
+.about-bg{
+  background-image: url("images/background.1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.follow{
+
+  border-radius: 25px;
+  font-size: 25px;
+  font-family: "impact";
+}
+
+.thankyou{
+
+  border-radius: 25px;
+  font-size: 25px;
+  font-family: "impact";
+}
